@@ -1,0 +1,2 @@
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1Content\obj\x86\Debug\Testing1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1Content\obj\x86\Debug\Testing1Content.contentprojResolveAssemblyReference.cache

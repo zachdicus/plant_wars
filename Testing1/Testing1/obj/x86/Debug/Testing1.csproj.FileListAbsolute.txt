@@ -1,0 +1,22 @@
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\bin\x86\Debug\Content\Animation\dragon.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\bin\x86\Debug\Content\Fonts\scoreFont.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\bin\x86\Debug\Testing1.exe
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\bin\x86\Debug\Testing1.pdb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\obj\x86\Debug\Testing1.csprojResolveAssemblyReference.cache
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\obj\x86\Debug\Testing1.exe
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\obj\x86\Debug\Testing1.pdb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\bin\x86\Debug\Content\Animation\part1_tileset.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\bin\x86\Debug\Content\Animation\part2_tileset.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1\Testing1\Testing1\bin\x86\Debug\Content\Map\map1.txt
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\bin\x86\Debug\Content\Animation\dragon.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\bin\x86\Debug\Content\Animation\part1_tileset.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\bin\x86\Debug\Content\Animation\part2_tileset.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\bin\x86\Debug\Content\Fonts\scoreFont.xnb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\bin\x86\Debug\Content\Map\map1.txt
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\bin\x86\Debug\Testing1.exe
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\bin\x86\Debug\Testing1.pdb
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\obj\x86\Debug\Testing1.csprojResolveAssemblyReference.cache
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\obj\x86\Debug\Testing1.exe
+C:\Users\Zach Dicus\Documents\Visual Studio 2010\Projects\Testing1 - Copy\Testing1\Testing1\obj\x86\Debug\Testing1.pdb
